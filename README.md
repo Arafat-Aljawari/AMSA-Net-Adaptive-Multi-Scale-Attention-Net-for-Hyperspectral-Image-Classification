@@ -1,0 +1,1 @@
+# AMSA-Net-Adaptive-Multi-Scale-Attention-Net-for-Hyperspectral-Image-Classification
