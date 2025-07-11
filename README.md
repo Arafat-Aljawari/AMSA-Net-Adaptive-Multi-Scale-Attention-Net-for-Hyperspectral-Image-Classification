@@ -1,3 +1,3 @@
 # AMSA-Net-Adaptive-Multi-Scale-Attention-Net-for-Hyperspectral-Image-Classification
 
-the code will be available wi=hen this paper get accepted
+The code will be available withen this paper gets accepted
